@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
 <h3 align="center">Aspiring DevOps Engineer | Azure & AWS Certified | Passionate About Cloud Technologies | Driven by Continuous Learning & Growth | Ready to Tackle New Challenges</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder Image" />
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyagito&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyagito" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhyagito" alt="sandhyagito" /></a> </p>
