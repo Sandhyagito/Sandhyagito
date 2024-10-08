@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
 <h3 align="center">Aspiring DevOps Engineer | Azure & AWS Certified | Passionate About Cloud Technologies | Driven by Continuous Learning & Growth | Ready to Tackle New Challenges</h3>
 
-<p align="center">
-  ![Coder GIF](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
-</p>
+<div align="center">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Coder GIF" width="300" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyagito&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyagito" /> </p>
 
