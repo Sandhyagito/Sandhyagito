@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhyagito" alt="sandhyagito" /></a> </p>
 
-https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif
-
 - 🔭 I’m currently working on **Kubernetes**
 
 - 🌱 I’m currently learning **DevOps**
